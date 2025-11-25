@@ -50,7 +50,7 @@ Predict whether a wine is of **good quality** (1) or **not** (0) using machine l
 ## How to Run
 
 1. **Clone the repository**
-```bash
+    ```bash
 git clone https://github.com/chelsi123/Wine_Quality_Classifier.git
 
 Open Wine_Quality_Classifier.ipynb in Google Colab or Jupyter Notebook.
